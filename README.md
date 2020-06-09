@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
 </p>
 
+
+test 1
 # Graphql/Typescript Code Pattern
 
 This is a template repository for a Typescript-based Graphql micro-service.
